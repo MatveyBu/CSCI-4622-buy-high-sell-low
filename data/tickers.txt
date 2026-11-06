@@ -1,0 +1,125 @@
+# S&P 500 constituents (as of 2021) with Yahoo price history back to 1999.
+# Chosen as long-lived large caps across sectors. NOTE: picking today's survivors
+# introduces survivorship bias; see README "Known limitations".
+# Technology
+AAPL
+MSFT
+INTC
+CSCO
+ORCL
+IBM
+TXN
+QCOM
+ADBE
+AMAT
+MU
+HPQ
+ADI
+KLAC
+LRCX
+ADP
+PAYX
+AMZN
+# Financials
+JPM
+BAC
+WFC
+C
+GS
+MS
+AXP
+USB
+PNC
+BEN
+SCHW
+AIG
+ALL
+TRV
+ADM
+AON
+CB
+# Health care
+JNJ
+PFE
+MRK
+ABT
+BMY
+LLY
+AMGN
+MDT
+UNH
+CVS
+CI
+BDX
+SYK
+BAX
+TMO
+GILD
+# Energy
+XOM
+CVX
+COP
+SLB
+OXY
+HAL
+EOG
+# Consumer
+PG
+KO
+PEP
+WMT
+HD
+LOW
+COST
+MCD
+NKE
+SBUX
+TGT
+CL
+KMB
+GIS
+MCK
+HSY
+MO
+CAG
+SYY
+# Industrials
+GE
+MMM
+HON
+CAT
+DE
+BA
+LMT
+RTX
+UNP
+CSX
+NSC
+FDX
+EMR
+ITW
+ETN
+DOV
+PH
+GD
+NOC
+# Communication
+T
+VZ
+DIS
+CMCSA
+# Utilities
+NEE
+DUK
+SO
+D
+AEP
+ED
+EXC
+# Materials
+SHW
+APD
+ECL
+NUE
+PPG
+IP

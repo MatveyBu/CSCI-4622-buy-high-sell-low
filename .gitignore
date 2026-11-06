@@ -1,2 +1,18 @@
 .env
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated data (rebuild with `python -m bhsl.download_stocks` / `python -m bhsl.make_dataset`)
+data/stocks/
+data/processed/
+
+# Experiment outputs
+results/
